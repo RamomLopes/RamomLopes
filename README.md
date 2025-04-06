@@ -7,8 +7,8 @@
 <div align="start">
    <p>Olá, eu sou Ramom Lopes, tenho 26 anos e sou do interior de Minas Gerais.</p>
   <p>
-    Sou um desenvolvedor iniciante com uma base em front-end, dominando as principais tecnologias como HTML, CSS e JavaScript. Com essas habilidades, sou capaz de criar páginas e interfaces dinâmicas e agradáveis, sempre buscando oferecer uma excelente                          experiência ao usuário.<br>
-    Além disso, tenho planos de expandir meu conhecimento em frameworks front-end, e estou ansioso para começar a estudar Angular em breve. Acredito que esse framework vai me permitir criar aplicações mais robustas e interativas, elevando ainda mais minhas habilidades
+    Sou um desenvolvedor iniciante com uma base em front-end, dominando as principais tecnologias como HTML, CSS e JavaScript.<br>
+    Além disso, tenho planos de expandir meu conhecimento em front-end, e estou ansioso para começar a estudar Angular em breve. Acredito que esse framework vai me permitir criar aplicações mais robustas e interativas, elevando ainda mais minhas habilidades
     de desenvolvimento.<br>
     Atualmente, estou iniciando minha jornada no back-end, com foco em Spring Boot e Java. Embora ainda esteja no começo, estou bastante motivado a aprender e a aplicar boas práticas de desenvolvimento para criar soluções escaláveis e de alta qualidade.<br><br>
     Estou sempre em busca de novos desafios e oportunidades para crescer como desenvolvedor, tanto no front-end quanto no back-end, com o objetivo de me tornar um desenvolvedor full stack completo e versátil.
